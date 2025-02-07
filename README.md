@@ -3,29 +3,24 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/work.gif" align="center" style="width: 50%" />
 </div>
-<div align="center">
+<br><div align="center">
   <a href="mailto:domkrato1337@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/gmail.png" height="25" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/gmail.png" height="30" alt="youtube logo"  />
   </a>
   <a href="https://t.me/rompompony" target="_blank">
-    <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/telegram.png" height="25" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/telegram.png" height="30" alt="telegram logo"  />
   </a>
 </div>
 
 ##
 
+### Обо мне 
 Я начинающий QA Engineer. Мой таргет сейчас- тестирование WEB и Mobile приложений. 
 <br>Здесь я поделюсь с вами тестовыми артефактами, которые мне удалось создать в процессе самостоятельного обучения.
-
-
-##
-### Обо мне 
 
 - 📚 Окончил курс [Тестирование ПО с нуля. Теория + Практика](https://drive.google.com/file/d/1WZlIq-aRA_jh_OhCHiYtY4TdrqusWQGd/view?usp=sharing)
 - 📝 Предыдущий опыт позволит мне быстро погрузиться в эту область  
 - 💼 Ознакомиться с [Резюме](https://drive.google.com/file/d/1rWj2HiJ6fHiGZKNLJMAzR1iMozoZDRFc/view?usp=sharing) 
-
-
 
 ### Инструменты 
 <div>
