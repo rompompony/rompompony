@@ -3,11 +3,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/work.gif" align="center" style="width: 50%" />
 </div>
-
-##
-
-Я начинающий QA Engineer. Мой таргет сейчас- тестирование WEB и Mobile приложений. 
-<br>Здесь я поделюсь с вами тестовыми артефактами, которые мне удалось создать в процессе самостоятельного обучения.
 <div align="center">
   <a href="mailto:domkrato1337@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/gmail.png" height="25" alt="youtube logo"  />
@@ -16,6 +11,12 @@
     <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/telegram.png" height="25" alt="telegram logo"  />
   </a>
 </div>
+
+##
+
+Я начинающий QA Engineer. Мой таргет сейчас- тестирование WEB и Mobile приложений. 
+<br>Здесь я поделюсь с вами тестовыми артефактами, которые мне удалось создать в процессе самостоятельного обучения.
+
 
 ##
 ### Обо мне 
