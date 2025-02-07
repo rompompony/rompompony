@@ -40,6 +40,6 @@
 
 ### Тестовые артефакты
 - [Чек-листы/Тест-кейсы](https://github.com/rompompony/web-testing)
-- [Баг-репроты](https://github.com/rompompony/bug-rep)
+- [Баг-репорты](https://github.com/rompompony/bug-rep)
 - [SQL-запросы](https://github.com/rompompony/SQL)
 - [Postman коллекции](https://github.com/rompompony/postman)
