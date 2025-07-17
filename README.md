@@ -20,7 +20,7 @@
 
 - 📚 Окончил курс [Тестирование ПО с нуля. Теория + Практика](https://drive.google.com/file/d/1SVczNY3wDDbiMW-4qfGEHl-i_ysB7HqW/view?usp=drive_link)
 - 📝 Предыдущий опыт позволит мне быстро погрузиться в эту область  
-- 💼 Ознакомиться с [Резюме](https://drive.google.com/file/d/1rWj2HiJ6fHiGZKNLJMAzR1iMozoZDRFc/view?usp=sharing) 
+- 💼 Ознакомиться с [Резюме](https://drive.google.com/file/d/1SVczNY3wDDbiMW-4qfGEHl-i_ysB7HqW/view?usp=drive_link) 
 
 ### Инструменты 
 <div>
