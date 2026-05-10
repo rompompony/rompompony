@@ -38,6 +38,7 @@
 </table>
 
 ### Тестовые артефакты
+- [AQA](https://github.com/rompompony/auto_tests)
 - [Чек-листы/Тест-кейсы](https://github.com/rompompony/web-testing)
 - [Баг-репорты](https://github.com/rompompony/bug-rep)
 - [SQL-запросы](https://github.com/rompompony/SQL)
