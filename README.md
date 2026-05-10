@@ -15,29 +15,27 @@
 ## 👨‍💻 Обо мне
 
 Я **QA Engineer** с коммерческим опытом ручного тестирования **iOS-приложений**.  
-В свободное время изучаю **Python** и готовлюсь к переходу в **автоматизацию**.
+Сейчас готовлюсь к переходу в **автоматизацию** на **Python**.
 
-
-
-- 📚 Окончил курс [Тестирование ПО с нуля. Теория + Практика](https://drive.google.com/file/d/1WZlIq-aRA_jh_OhCHiYtY4TdrqusWQGd/view?usp=drive_link)
-- 📝 Предыдущий опыт позволит мне быстро погрузиться в эту область  
 - 💼 Ознакомиться с [Резюме](https://drive.google.com/file/d/1ciF-s1iUxepcwGgLBGz3axl3rrMFCvPx/view?usp=sharing) 
 
 ### Инструменты 
-<div>
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/jira.png" title="Jira" alt="Jira" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/postman.png" title="Postman" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/soapUI.png" title="SoapUI" alt="SoapUI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/swagger.png" title="Swagger" alt="Swagger" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/devtools.png" title="DevTools" alt="DevTools" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/html.png" title="HTML" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/mysql.png" title="MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/bash.png" title="Bash" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/charles.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/fiddler.png" title="Fiddler" alt="Fiddler" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/git.png" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/Android_Studio.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>
-  </div>
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/jira.png" title="Jira" alt="Jira" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/postman.png" title="Postman" alt="Postman" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/soapUI.png" title="SoapUI" alt="SoapUI" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/swagger.png" title="Swagger" alt="Swagger" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/devtools.png" title="DevTools" alt="DevTools" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/html.png" title="HTML" alt="HTML" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/mysql.png" title="MySQL" alt="MySQL" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/bash.png" title="Bash" alt="Bash" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/charles.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/fiddler.png" title="Fiddler" alt="Fiddler" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/git.png" title="Git" alt="Git" width="40" height="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/Android_Studio.png" title="Android Studio" alt="Android Studio" width="40" height="40"/></td>
+  </tr>
+</table>
 
 ### Тестовые артефакты
 - [Чек-листы/Тест-кейсы](https://github.com/rompompony/web-testing)
