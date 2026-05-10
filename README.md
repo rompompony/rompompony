@@ -17,7 +17,7 @@
 Я **QA Engineer** с коммерческим опытом ручного тестирования **iOS-приложений**.  
 Сейчас готовлюсь к переходу в **автоматизацию** на **Python**.
 
-- 💼 Ознакомиться с [Резюме](https://drive.google.com/file/d/1ciF-s1iUxepcwGgLBGz3axl3rrMFCvPx/view?usp=sharing) 
+- 💼 Ознакомиться с [Резюме](https://drive.google.com/file/d/18k4agVH6bjaX0BrquesEqSdtBkUzY_or/view?usp=sharing) 
 
 ### Инструменты 
 <table>
