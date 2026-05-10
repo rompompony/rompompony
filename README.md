@@ -25,18 +25,18 @@
 
 ### Инструменты 
 <div>
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/soapUI.png" title="SoapUI" alt="SoapUI" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/swagger.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/devtools.png" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/html.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/mysql.png" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/bash.png" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/charles.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/fiddler.png" title="Fiddler" alt="Fiddler" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/git.png" title="Git" alt="Git" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/Android_Studio.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/jira.png" title="Jira" alt="Jira" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/postman.png" title="Postman" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/soapUI.png" title="SoapUI" alt="SoapUI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/swagger.png" title="Swagger" alt="Swagger" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/devtools.png" title="DevTools" alt="DevTools" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/html.png" title="HTML" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/mysql.png" title="MySQL" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/bash.png" title="Bash" alt="Bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/charles.png" title="Charles Proxy" alt="Charles Proxy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/fiddler.png" title="Fiddler" alt="Fiddler" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/git.png" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/rompompony/QA-test/refs/heads/main/icons/Android_Studio.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   </div>
 
 ### Тестовые артефакты
